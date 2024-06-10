@@ -49,7 +49,11 @@
 
 [문제1](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting1)
 
+<br>
+
 [문제2](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting2)
+
+<br>
 
 [문제3](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting3)
 
