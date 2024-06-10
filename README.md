@@ -47,15 +47,15 @@
 
 # 트러블 슈팅
 
-[트랩발동 후 사운드 출력X](https://github.com/LilDuby/IkeniePublic/wiki/%ED%8A%B8%EB%9E%A9%EB%B0%9C%EB%8F%99-%ED%9B%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5X)
+- [트랩발동 후 사운드 출력X](https://github.com/LilDuby/IkeniePublic/wiki/%ED%8A%B8%EB%9E%A9%EB%B0%9C%EB%8F%99-%ED%9B%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5X)
 
 <br>
 
-[키패드 동작 오류](https://github.com/LilDuby/IkeniePublic/wiki/%ED%82%A4%ED%8C%A8%EB%93%9C-%EB%8F%99%EC%9E%91-%EC%98%A4%EB%A5%98)
+- [키패드 동작 오류](https://github.com/LilDuby/IkeniePublic/wiki/%ED%82%A4%ED%8C%A8%EB%93%9C-%EB%8F%99%EC%9E%91-%EC%98%A4%EB%A5%98)
 
 <br>
 
-[깨진 사운드 출력](https://github.com/LilDuby/IkeniePublic/wiki/%EA%B9%A8%EC%A7%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5)
+- [깨진 사운드 출력](https://github.com/LilDuby/IkeniePublic/wiki/%EA%B9%A8%EC%A7%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5)
 
 <br><br>
 
