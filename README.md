@@ -50,6 +50,8 @@
 
 # 트러블 슈팅
 
+<br>
+
 - [트랩발동 후 사운드 출력X](https://github.com/LilDuby/IkeniePublic/wiki/%ED%8A%B8%EB%9E%A9%EB%B0%9C%EB%8F%99-%ED%9B%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5X)
 
 <br>
