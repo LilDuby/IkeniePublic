@@ -25,7 +25,7 @@
 
 <br><br>
 
-### 무서운 병원에서 일어난 당신 퍼즐을 풀고 탈출하세요
+### 어느 병원에서 일어난 당신 총 4개의 퍼즐을 풀고 탈출하세요!
 ![StartScene](https://github.com/LilDuby/IkeniePublic/assets/167047382/30aeda52-aa42-444b-af0f-5f3f3936d68b)
 
 | 게임명 | いけにえ ( 재물 ) |
