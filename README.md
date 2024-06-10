@@ -19,7 +19,7 @@
 
 # 프로젝트 소개
 
-### [YouTube](//유튭링크)
+### [YouTube](https://youtu.be/x5GN8TPRW0g)
 
 ### [Team Notion](https://teamsparta.notion.site/d45d0794c0a84f72be5c33a12fadc992)
 
