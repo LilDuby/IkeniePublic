@@ -45,6 +45,12 @@
 
 # 트러블 슈팅
 
+[문제1](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting1)
+
+[문제2](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting2)
+
+[문제3](https://github.com/LilDuby/IkeniePublic/wiki/TroubleShooting3)
+
 <br><br>
 
 [ 목차로 돌아가기 ](#목차)
