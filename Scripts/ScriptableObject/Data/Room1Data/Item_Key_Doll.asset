@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9199fdf999197f741b198f9829579b43, type: 3}
+  m_Name: Item_Key_Doll
+  m_EditorClassIdentifier: 
+  displayName: "\uC778\uD615"
+  description: "\uC18C\uB984\uB07C\uCE58\uAC8C \uC0DD\uAE34 \uC778\uD615\uC774\uB2E4."
+  type: 0
+  dropPrefab: {fileID: 5675595525248776558, guid: f0db121b9c21e674a83797ea09134442, type: 3}
+  isKey: 1
+  PickUpPrefeb: {fileID: 3850584676509726246, guid: 3fd9ab3743f5cd949879e9a7c0bc0144, type: 3}
+  KeyPadUI: {fileID: 0}

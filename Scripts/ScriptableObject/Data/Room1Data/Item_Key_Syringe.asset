@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9199fdf999197f741b198f9829579b43, type: 3}
+  m_Name: Item_Key_Syringe
+  m_EditorClassIdentifier: 
+  displayName: "\uC8FC\uC0AC\uAE30"
+  description: "\uC774\uBBF8 \uC0AC\uC6A9\uD55C \uC77C\uD68C\uC6A9 \uC8FC\uC0AC\uAE30\uC774\uB2E4."
+  type: 0
+  dropPrefab: {fileID: 9109983550027504786, guid: 6e9960bc03f72034dab7f2c523950063, type: 3}
+  isKey: 1
+  PickUpPrefeb: {fileID: 3412211767849241193, guid: d66a796702274da48b340885612c6ab3, type: 3}

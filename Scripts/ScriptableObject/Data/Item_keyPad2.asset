@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9199fdf999197f741b198f9829579b43, type: 3}
+  m_Name: Item_keyPad2
+  m_EditorClassIdentifier: 
+  displayName: "\uD074\uB9AD\uD558\uC138\uC694"
+  description: "4\uC790\uB9AC \uC22B\uC790\uB97C \uC785\uB825\uD558\uC138\uC694"
+  type: 2
+  dropPrefab: {fileID: 0}
+  isKey: 0
+  PickUpPrefeb: {fileID: 0}
+  PadNum: 0
