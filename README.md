@@ -60,6 +60,10 @@
 
 - [깨진 사운드 출력](https://github.com/LilDuby/IkeniePublic/wiki/%EA%B9%A8%EC%A7%84-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%B6%9C%EB%A0%A5)
 
+<br>
+
+- [텍스쳐 파일 깨짐](https://github.com/LilDuby/IkeniePublic/wiki/%ED%85%8D%EC%8A%A4%EC%B3%90-%ED%8C%8C%EC%9D%BC-%EA%B9%A8%EC%A7%90)
+
 <br><br>
 
 [ 목차로 돌아가기 ](#목차)
